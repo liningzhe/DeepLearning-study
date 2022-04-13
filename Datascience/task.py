@@ -10,7 +10,7 @@ from tensorflow import keras  # 如果放在上面，黄色提示消失；但是
 import data_reader
 
 
-EPOCHS = 5  # 예제 기본값은 10입니다.
+EPOCHS = 5  
 
 # 데이터를 읽어옵니다.
 dr = data_reader.DataReader()
