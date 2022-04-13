@@ -4,6 +4,11 @@
 # @FileName: tensor.py
 # @Software: PyCharm
 
+# 根据教材：动手学深度学习整理；
+# 课程的直播地址：http://courses.d2l.ai/zh-v2/
+# 课程的课件地址：https://zh-v2.d2l.ai/
+
+
 import torch
 # print(dir(torch.distributions))
 
