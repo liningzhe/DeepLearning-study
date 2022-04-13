@@ -1,4 +1,4 @@
 # DeepLearning_study
 ###  B站：跟着李沐学AI的笔记
 ###  教材：动手学深度学习2
-###  DataScience 수업교재:https://needleworm.github.io/bhban_ai
+###  DataScience 수업교재: 수학·통계를 몰라도 이해할 수 있는 쉬운 딥러닝 / 반병현 / 생능출판사(2021)
